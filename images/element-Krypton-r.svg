@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="397px" height="430px" viewBox="0 0 397 430" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>element-Krypton-r</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="8.17601221%" x2="50%" y2="123.94144%" id="linearGradient-1">
+            <stop stop-color="#D6A8FF" offset="0%"></stop>
+            <stop stop-color="#B08BD1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="layout" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M295.0125,430 L295.0125,413.22 L201.8835,368.753 L201.8835,208.504 C201.8835,131.316 233.7655,66.713 273.1985,65.035 L378.0735,179.978 L396.5315,179.978 L396.5315,7.983 C382.2685,3.788 361.2935,0.432 337.8015,0.432 C257.2575,0.432 215.3075,55.806 201.8835,127.121 L201.8835,7.983 L0.5235,7.983 L0.5235,24.763 L61.7705,69.23 L61.7705,368.753 L0.5235,413.22 L0.5235,430 L295.0125,430 Z" id="element-Krypton-r" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+    </g>
+</svg>

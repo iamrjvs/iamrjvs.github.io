@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="569px" height="586px" viewBox="0 0 569 586" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>element-carbon-C</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="-4.53888175%" x2="50%" y2="131.376244%" id="linearGradient-1">
+            <stop stop-color="#FFD6CD" offset="0%"></stop>
+            <stop stop-color="#FEAD9F" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="layout" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M304.557,585.622 C430.407,585.622 526.053,520.18 568.842,385.101 L552.901,377.55 C512.629,460.611 440.475,503.4 361.609,503.4 C251.7,503.4 158.571,422.017 158.571,263.446 C158.571,109.909 248.344,25.17 359.931,25.17 C387.618,25.17 411.11,41.111 427.89,57.052 L541.994,255.895 L558.774,255.895 L558.774,12.585 L542.833,12.585 L475.713,35.238 C432.924,14.263 381.745,0 325.532,0 C159.41,0 0,115.782 0,297.845 C0,465.645 135.079,585.622 304.557,585.622 Z" id="element-carbon-C" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+    </g>
+</svg>

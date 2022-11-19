@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="646px" height="563px" viewBox="0 0 646 563" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>element-Krypton-K</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="8.17601221%" x2="50%" y2="129.925664%" id="linearGradient-1">
+            <stop stop-color="#D6A8FF" offset="0%"></stop>
+            <stop stop-color="#B08BD1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="layout" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M265.124,563 L265.124,546.22 L204.716,501.753 L204.716,61.278 L265.124,17.65 L265.124,0.87 L4.54747351e-13,0.87 L4.54747351e-13,17.65 L60.408,61.278 L60.408,501.753 L4.54747351e-13,546.22 L4.54747351e-13,563 L265.124,563 Z M645.191,563 L645.191,546.22 L567.164,489.168 L365.804,196.357 L481.586,89.804 L608.275,17.65 L608.275,0.87 L458.933,0.87 L458.933,86.448 L235.759,288.647 L387.618,504.27 L360.77,546.22 L360.77,563 L645.191,563 Z" id="element-Krypton-K" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+    </g>
+</svg>

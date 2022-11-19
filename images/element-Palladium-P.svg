@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="542px" height="563px" viewBox="0 0 542 563" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>element-Palladium-P</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="-11.4414288%" x2="50%" y2="121.48012%" id="linearGradient-1">
+            <stop stop-color="#688FA5" offset="0%"></stop>
+            <stop stop-color="#8BBCD9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="layout" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M294.489,563 L294.489,546.22 L204.716,501.753 L204.716,17.65 L269.319,17.65 C339.795,17.65 388.457,75.541 388.457,165.314 C388.457,252.57 340.634,316.334 281.904,323.046 L243.31,325.563 L243.31,340.665 L297.845,340.665 C443.831,340.665 541.994,271.028 541.994,170.348 C541.994,67.99 449.704,0.87 329.727,0.87 L-4.54747351e-13,0.87 L-4.54747351e-13,17.65 L60.408,61.278 L60.408,501.753 L-4.54747351e-13,546.22 L-4.54747351e-13,563 L294.489,563 Z" id="element-Palladium-P" fill="url(#linearGradient-1)"></path>
+    </g>
+</svg>

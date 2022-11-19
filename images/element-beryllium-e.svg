@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="453px" height="445px" viewBox="0 0 453 445" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>element-beryllium-e</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="134.468173%" id="linearGradient-1">
+            <stop stop-color="#797A7B" offset="0%"></stop>
+            <stop stop-color="#CDCFD0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="layout" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M239.794,444.876 C339.635,444.876 412.628,390.341 446.188,293.017 L433.603,287.983 C399.204,347.552 354.737,370.205 301.041,370.205 C212.107,370.205 156.733,298.051 151.699,221.702 L452.061,221.702 C452.061,84.106 367.322,0.206 237.277,0.206 C106.393,0.206 0.679,89.979 0.679,221.702 C0.679,353.425 107.232,444.876 239.794,444.876 Z M317.821,204.922 L150.86,204.922 C151.699,74.877 180.225,13.63 237.277,13.63 C292.651,13.63 316.143,60.614 317.821,204.922 Z" id="element-beryllium-e" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+    </g>
+</svg>

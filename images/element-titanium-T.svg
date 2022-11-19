@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="532px" height="563px" viewBox="0 0 532 563" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>element-titanium-T</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="138.39192%" id="linearGradient-1">
+            <stop stop-color="#797A7B" offset="0%"></stop>
+            <stop stop-color="#CDCFD0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="layout" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="element-titanium-T" fill="url(#linearGradient-1)" fill-rule="nonzero" points="407.754 562.13 407.754 545.35 338.117 500.883 338.117 16.78 406.915 16.78 515.146 201.36 531.926 201.36 531.926 0 0 0 0 201.36 17.619 201.36 125.011 16.78 194.648 16.78 194.648 500.883 125.011 545.35 125.011 562.13"></polygon>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="458px" height="586px" viewBox="0 0 458 586" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>element-sulfur-S</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="-33.9220948%" x2="50%" y2="157.428094%" id="linearGradient-1">
+            <stop stop-color="#40827A" offset="0%"></stop>
+            <stop stop-color="#59B4A9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="layout" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M231.564,585.622 C354.058,585.622 457.255,531.087 457.255,410.271 C457.255,333.922 416.144,281.065 317.981,246.666 L224.013,214.784 C154.376,189.614 126.689,166.122 126.689,116.621 C126.689,67.959 154.376,15.102 216.462,15.102 C234.081,15.102 253.378,23.492 261.768,35.238 L407.754,214.784 L424.534,214.784 L424.534,8.39 L407.754,8.39 L356.575,27.687 C310.43,10.068 260.09,0 211.428,0 C95.646,0 0,56.213 0,172.834 C0,252.539 43.628,313.786 141.791,347.346 L239.954,380.067 C302.04,401.042 329.727,430.407 329.727,478.23 C329.727,533.604 291.133,570.52 229.886,570.52 C211.428,570.52 187.097,564.647 166.961,545.35 L24.331,370.838 L6.712,370.838 L6.712,577.232 L24.331,577.232 L76.349,553.74 C123.333,575.554 177.868,585.622 231.564,585.622 Z" id="element-sulfur-S" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+    </g>
+</svg>

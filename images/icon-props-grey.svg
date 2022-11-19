@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="28px" viewBox="0 0 19 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>icon-about white copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.653846154 0 19.6538462 0 19.6538462 28 0.653846154 28"></polygon>
+    </defs>
+    <g id="layout" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.49">
+        <g id="Menu-Copy-2" transform="translate(-918.000000, -573.000000)">
+            <g id="icon-props" transform="translate(909.000000, 573.000000)">
+                <g id="Group-3" transform="translate(8.346154, 0.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M17.418552,9.500998 L17.418552,20.2203593 L4.10737557,26.2674651 L2.40855204,24.5684631 L15.1832579,18.499002 L15.1832579,0 L0.653846154,6.90778443 L0.653846154,25.2391218 L0.653846154,25.4067864 L0.76561086,25.3508982 C1.77149321,26.3680639 2.36384615,26.960479 3.41443439,28 L19.6538462,28 L19.6538462,9.500998 L17.418552,9.500998 Z" id="Fill-1" fill="#000000" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

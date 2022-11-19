@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="601px" height="563px" viewBox="0 0 601 563" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>element-Ruthenium-R</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="17.1553663%" x2="50%" y2="131.005478%" id="linearGradient-1">
+            <stop stop-color="#6AD5C8" offset="0%"></stop>
+            <stop stop-color="#59B4A9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="layout" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M265.124,563 L265.124,546.22 L204.716,501.753 L204.716,17.65 L257.573,17.65 C338.956,17.65 385.94,73.863 385.94,147.695 C385.94,220.688 341.473,267.672 276.87,281.935 L239.115,285.291 L239.115,296.198 L385.101,563 L600.724,563 L600.724,546.22 L510.951,475.744 C492.493,449.735 475.713,425.404 463.128,404.429 C422.017,347.377 389.296,324.724 354.897,312.139 C336.439,304.588 317.142,301.232 300.362,298.715 L329.727,298.715 C457.255,298.715 538.638,242.502 538.638,150.212 C538.638,57.083 452.221,0.87 330.566,0.87 L9.09494702e-13,0.87 L9.09494702e-13,17.65 L60.408,61.278 L60.408,501.753 L9.09494702e-13,546.22 L9.09494702e-13,563 L265.124,563 Z" id="element-Ruthenium-R" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+    </g>
+</svg>

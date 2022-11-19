@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="543px" height="435px" viewBox="0 0 543 435" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>element-copper-u</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="4.06691838%" x2="50%" y2="122.393438%" id="linearGradient-1">
+            <stop stop-color="#FFA27B" offset="0%"></stop>
+            <stop stop-color="#DB764C" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="layout" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M196.4745,434.746 C283.7305,434.746 324.8415,379.372 342.4605,303.862 L342.4605,423 L542.9815,423 L542.9815,406.22 L481.7345,361.753 L481.7345,0.983 L281.2135,0.983 L281.2135,17.763 L342.4605,62.23 L342.4605,253.522 C342.4605,310.574 314.7735,360.914 262.7555,360.914 C221.6445,360.914 201.5085,332.388 201.5085,276.175 L201.5085,0.983 L0.9875,0.983 L0.9875,17.763 L61.3955,62.23 L61.3955,279.531 C61.3955,386.084 115.0915,434.746 196.4745,434.746 Z" id="element-copper-u" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="570px" height="586px" viewBox="0 0 570 586" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>C</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#8B6C37" offset="0%"></stop>
+            <stop stop-color="#A98445" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="layout" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-220.000000, -16618.000000)" fill="url(#linearGradient-1)">
+            <path d="M525.088251,17203.746 C650.938251,17203.746 746.584251,17138.304 789.373251,17003.225 L773.432252,16995.674 C733.160251,17078.735 661.006251,17121.524 582.140251,17121.524 C472.231251,17121.524 379.102251,17040.141 379.102251,16881.57 C379.102251,16728.033 468.875251,16643.294 580.462251,16643.294 C608.149251,16643.294 631.641251,16659.235 648.421251,16675.176 L762.525251,16874.019 L779.305251,16874.019 L779.305251,16630.709 L763.364251,16630.709 L696.244251,16653.362 C653.455251,16632.387 602.276251,16618.124 546.063251,16618.124 C379.941251,16618.124 220.531251,16733.906 220.531251,16915.969 C220.531251,17083.769 355.610251,17203.746 525.088251,17203.746 Z" id="C"></path>
+        </g>
+    </g>
+</svg>

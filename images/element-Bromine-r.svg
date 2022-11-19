@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="397px" height="430px" viewBox="0 0 397 430" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>element-Bromine-r</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="130.574867%" id="linearGradient-1">
+            <stop stop-color="#77A5A3" offset="0%"></stop>
+            <stop stop-color="#95CFCC" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="layout" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M295.4525,430 L295.4525,413.22 L202.3235,368.753 L202.3235,208.504 C202.3235,131.316 234.2055,66.713 273.6385,65.035 L378.5135,179.978 L396.9715,179.978 L396.9715,7.983 C382.7085,3.788 361.7335,0.432 338.2415,0.432 C257.6975,0.432 215.7475,55.806 202.3235,127.121 L202.3235,7.983 L0.9635,7.983 L0.9635,24.763 L62.2105,69.23 L62.2105,368.753 L0.9635,413.22 L0.9635,430 L295.4525,430 Z" id="element-Bromine-r" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+    </g>
+</svg>

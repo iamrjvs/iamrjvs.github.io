@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="554px" height="563px" viewBox="0 0 554 563" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>element-Yttrium-Y</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="-9.1174837%" x2="50%" y2="141.300802%" id="linearGradient-1">
+            <stop stop-color="#797A7B" offset="0%"></stop>
+            <stop stop-color="#CDCFD0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="layout" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="element-Yttrium-Y" fill="url(#linearGradient-1)" fill-rule="nonzero" points="415.305 562.13 415.305 545.35 354.058 500.883 354.058 343.151 500.883 62.086 553.74 16.78 553.74 0 426.212 0 426.212 16.78 484.103 58.73 354.058 304.557 344.829 304.557 202.199 60.408 236.598 16.78 236.598 0 0 0 0 16.78 54.535 72.993 211.428 343.99 211.428 500.883 150.181 545.35 150.181 562.13"></polygon>
+    </g>
+</svg>

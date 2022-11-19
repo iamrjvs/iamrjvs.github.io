@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="550px" height="563px" viewBox="0 0 550 563" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>element-beryllium-B</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="135.681804%" id="linearGradient-1">
+            <stop stop-color="#797A7B" offset="0%"></stop>
+            <stop stop-color="#CDCFD0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="layout" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M334.761,562.13 C471.518,562.13 549.545,502.561 549.545,416.144 C549.545,334.761 480.747,281.904 357.414,276.031 L357.414,273.514 C442.153,266.802 517.663,223.174 517.663,137.596 C517.663,51.179 436.28,0 314.625,0 L0,0 L0,16.78 L60.408,60.408 L60.408,500.883 L0,545.35 L0,562.13 L334.761,562.13 Z M258.412,268.48 L204.716,268.48 L204.716,16.78 L265.963,16.78 C328.049,16.78 376.711,62.925 376.711,137.596 C376.711,212.267 326.371,268.48 258.412,268.48 Z M273.514,545.35 L204.716,545.35 L204.716,285.26 L268.48,285.26 C350.702,285.26 396.847,333.083 396.847,410.271 C396.847,492.493 342.312,545.35 273.514,545.35 Z" id="element-beryllium-B" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+    </g>
+</svg>

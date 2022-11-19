@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="453px" height="445px" viewBox="0 0 453 445" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>element-Rhenium-e</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="52.5058962%" y1="18.6160619%" x2="50%" y2="128.314285%" id="linearGradient-1">
+            <stop stop-color="#C7E9E8" offset="0%"></stop>
+            <stop stop-color="#95CFCC" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="layout" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M239.7645,444.746 C339.6055,444.746 412.5985,390.211 446.1585,292.887 L433.5735,287.853 C399.1745,347.422 354.7075,370.075 301.0115,370.075 C212.0775,370.075 156.7035,297.921 151.6695,221.572 L452.0315,221.572 C452.0315,83.976 367.2925,0.076 237.2475,0.076 C106.3635,0.076 0.6495,89.849 0.6495,221.572 C0.6495,353.295 107.2025,444.746 239.7645,444.746 Z M317.7915,204.792 L150.8305,204.792 C151.6695,74.747 180.1955,13.5 237.2475,13.5 C292.6215,13.5 316.1135,60.484 317.7915,204.792 Z" id="element-Rhenium-e" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="850px" height="563px" viewBox="0 0 850 563" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>element-Tungsten-W</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="-4.53888175%" x2="50%" y2="117.790688%" id="linearGradient-1">
+            <stop stop-color="#FFD6CD" offset="0%"></stop>
+            <stop stop-color="#FEAD9F" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="layout" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="element-Tungsten-W" fill="url(#linearGradient-1)" fill-rule="nonzero" points="299.523 562.13 426.212 203.877 575.554 562.13 623.377 562.13 797.05 58.73 849.068 16.78 849.068 0 709.794 0 709.794 16.78 776.914 58.73 663.649 390.135 658.615 390.135 531.087 62.086 573.037 16.78 573.037 0 320.498 0 320.498 16.78 372.516 73.832 414.466 176.19 341.473 390.135 338.117 390.135 211.428 62.086 249.183 16.78 249.183 0 0 0 0 16.78 46.145 67.959 247.505 562.13"></polygon>
+    </g>
+</svg>

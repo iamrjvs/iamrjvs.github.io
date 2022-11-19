@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="483px" height="445px" viewBox="0 0 483 445" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>element-cobalt-o</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="-11.4414288%" x2="50%" y2="133.507103%" id="linearGradient-1">
+            <stop stop-color="#688FA5" offset="0%"></stop>
+            <stop stop-color="#8BBCD9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="layout" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M241.26,444.746 C373.822,444.746 482.053,353.295 482.053,221.572 C482.053,89.849 373.822,0.076 241.26,0.076 C109.537,0.076 0.467,89.849 0.467,221.572 C0.467,353.295 109.537,444.746 241.26,444.746 Z M241.26,427.966 C181.691,427.966 150.648,375.109 150.648,221.572 C150.648,66.357 181.691,16.856 241.26,16.856 C301.668,16.856 332.711,66.357 332.711,221.572 C332.711,375.109 301.668,427.966 241.26,427.966 Z" id="element-cobalt-o" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+    </g>
+</svg>

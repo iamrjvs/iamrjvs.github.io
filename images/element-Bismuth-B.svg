@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="550px" height="563px" viewBox="0 0 550 563" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>element-Bismuth-B</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="4.06691838%" x2="50%" y2="119.211436%" id="linearGradient-1">
+            <stop stop-color="#FFA27B" offset="0%"></stop>
+            <stop stop-color="#DB764C" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="layout" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M334.761,563 C471.518,563 549.545,503.431 549.545,417.014 C549.545,335.631 480.747,282.774 357.414,276.901 L357.414,274.384 C442.153,267.672 517.663,224.044 517.663,138.466 C517.663,52.049 436.28,0.87 314.625,0.87 L0,0.87 L0,17.65 L60.408,61.278 L60.408,501.753 L0,546.22 L0,563 L334.761,563 Z M258.412,269.35 L204.716,269.35 L204.716,17.65 L265.963,17.65 C328.049,17.65 376.711,63.795 376.711,138.466 C376.711,213.137 326.371,269.35 258.412,269.35 Z M273.514,546.22 L204.716,546.22 L204.716,286.13 L268.48,286.13 C350.702,286.13 396.847,333.953 396.847,411.141 C396.847,493.363 342.312,546.22 273.514,546.22 Z" id="element-Bismuth-B" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+    </g>
+</svg>

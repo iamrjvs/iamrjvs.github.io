@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="543px" height="435px" viewBox="0 0 543 435" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>element-Ruthenium-u</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="17.1553663%" x2="50%" y2="121.141975%" id="linearGradient-1">
+            <stop stop-color="#6AD5C8" offset="0%"></stop>
+            <stop stop-color="#59B4A9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="layout" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M195.6355,434.746 C282.8915,434.746 324.0025,379.372 341.6215,303.862 L341.6215,423 L542.1425,423 L542.1425,406.22 L480.8955,361.753 L480.8955,0.983 L280.3745,0.983 L280.3745,17.763 L341.6215,62.23 L341.6215,253.522 C341.6215,310.574 313.9345,360.914 261.9165,360.914 C220.8055,360.914 200.6695,332.388 200.6695,276.175 L200.6695,0.983 L0.1485,0.983 L0.1485,17.763 L60.5565,62.23 L60.5565,279.531 C60.5565,386.084 114.2525,434.746 195.6355,434.746 Z" id="element-Ruthenium-u" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+    </g>
+</svg>

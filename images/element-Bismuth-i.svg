@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="262px" height="615px" viewBox="0 0 262 615" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>element-Bismuth-i</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="4.06691838%" x2="49.3663749%" y2="120.363133%" id="linearGradient-1">
+            <stop stop-color="#FFA27B" offset="0%"></stop>
+            <stop stop-color="#DB764C" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="layout" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M130.9675,145.999 C174.5955,145.999 205.6385,114.956 205.6385,73.845 C205.6385,35.251 174.5955,0.852 130.9675,0.852 C87.3395,0.852 56.2965,35.251 56.2965,73.845 C56.2965,114.956 87.3395,145.999 130.9675,145.999 Z M261.8515,615 L261.8515,598.22 L201.4435,553.753 L201.4435,192.983 L0.0835,192.983 L0.0835,209.763 L61.3305,254.23 L61.3305,553.753 L0.0835,598.22 L0.0835,615 L261.8515,615 Z" id="element-Bismuth-i" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+    </g>
+</svg>
